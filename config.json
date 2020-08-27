@@ -1,0 +1,7 @@
+{
+  "lattice_size": 20,
+  "trials": 1000,
+  "p_start": 0,
+  "p_end": 1,
+  "dp": 0.01
+}
